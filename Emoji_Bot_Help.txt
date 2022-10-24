@@ -1,0 +1,8 @@
+Help (h) - Sends this help message to the user.
+Get Emoji (ge) - Fill in later.
+Emoji Scan (es) - Scans every emoji in the server's present history and sends the author a list of them. (Owner only currently and not fully functional) 
+Get Reactions (gr) - Returns the emojis any users used as a reaction on a message.
+Word Reaction (wr) - Allows you to react to the previous message (or any given message ID) with a word in emoji form. Requires a word after the command (e.g. e! wr POG). Perhaps I can add multiple versions of letter emojis to a server. Anytime a word contains two of the same letter one emoji of a particular letter is used and another instance will be used next.
+Return Sticker (rs) - Use the message ID or message link to send the sticker url to author DMs. Works with both PNG and APNG stickers.
+Shout (s) - Post the word you provide it with emojis. Requires a word after the command (e.g. e! shout TEST).
+Reaction Top 10 (r10) - Shows a list of the top 10 users on the server who have the most reactions (bots excluded).
